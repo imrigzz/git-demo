@@ -2,4 +2,6 @@
 
 This Is the git tutorial repo.
 
-we will add more content...
+## Adding first part
+CLONE: git clone https://.....    (repo https link)
+
